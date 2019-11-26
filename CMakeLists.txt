@@ -16,8 +16,6 @@ add_definitions(-DHAVE_CURL -DBOOST_LOG_DYN_LINK)
 add_executable(bot
         src/AppConfig/Config.cpp
 
-        #src/AppLogger/Logger.cpp
-
         src/AppEvent/Event.cpp
 
         src/AppHandlersEngine/AbstractCallback.cpp
