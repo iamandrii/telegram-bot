@@ -1,3 +1,0 @@
-[submodule "deps/postgres-cxx-client"]
-	path = deps/postgres-cxx-client
-	url = https://github.com/anatoliifrolov/postgres-cxx-client.git
