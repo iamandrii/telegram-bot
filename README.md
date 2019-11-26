@@ -17,7 +17,7 @@ Based on: https://github.com/reo7sp/tgbot-cpp
    
    
 ## Config
- `token` - bot token (get it at t.me/botfather)
+ `token` - bot token (get it at https://t.me/botfather)
  
  `dev_token` - token for starting bot with `--dev` argument.
  
